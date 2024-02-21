@@ -1,2 +1,6 @@
 tmp/todo.txt
+<<<<<<< HEAD
 *.txt
+=======
+tmp/*
+>>>>>>> ed815350321225fa3944f5ab7cfe614c3db7ef41

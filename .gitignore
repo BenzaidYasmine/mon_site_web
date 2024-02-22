@@ -4,4 +4,5 @@
 *.json
 *xml
 /*.txt
+tmp/test.json
 

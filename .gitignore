@@ -1,7 +1,9 @@
-tmp/todo.txt
+
 *.txt
 *.xml
 *.json
 *xml
 /*.txt
 /*.txtt
+tmp/test.json
+

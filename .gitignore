@@ -2,7 +2,7 @@
 
 *.xml
 *.json
-*xml
+
 /*.txt
 /*.txtt
 tmp/test.json
